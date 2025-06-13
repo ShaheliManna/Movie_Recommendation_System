@@ -1,0 +1,31 @@
+MovieID,Title,Genre,ReleaseDate,Director,Rating,RuntimeInHrs
+1,Mad Max:Fury Road,action and adventure,2015,George Miller,8.1,2
+2,Spider-Man: Into the Spider-Verse,action,2018,Bob Persichetti,8.4,1.933
+3,Boyhood,drama,2014,Richard Linklater,7.9,2.75
+4,Get Out,horror,2017,Jordan Peele,7.8,1.912
+5,Lady Bird,comedy,2017,Greta Gerwig,7.4,1.77
+6,The Favourite,comedy/thriller,2018,yorgos lanthimos,7.5,1.983
+7,Roma,drama,2018,Alfonso Cuarón,7.6,2.25
+8,Black Panther,action/sci-fi,2018,Ryan Coogler,7.3,2.23
+9,Ex Machina,sci-fi,2014,Alex Garland,7.7,1.8
+10,The Master,drama,2012,Paul Thomas Anderson,7.1,2.3
+11,Her,romance,2013,Spike Jonze,8,2.1
+12,Moonlight,drama/romance,2016,Barry Jenkins,7.4,1.85
+13,The Social Network,drama,2010,David Fincher,7.8,2
+14,Drive,action/thriller,2011,Nicolas Winding Refn,7.8,1.67
+15,The Shape of Water,fantasy/romance,2017,Guillermo del Toro,7.3,2.05
+16,Avengers: Infinity War,action/sci-fi,2018,Russo Brothers,8.4,2.483
+17,Inception,sci-fi/action,2010,Christopher Nolan,8.8,2.467
+18,Birdman,comedy,2014,Alejandro González Iñárritu,7.7,1.983
+19,Spotlight,thriller/crime,2015,Tom McCarthy,8.1,2.13
+20,Toy Story 3,animation/adventure,2010,Lee Unkrich,8.3,1.717
+21,Hereditary,horror,2018,Ari Aster,7.3,2.117
+22,What We Do In The Shadows,horror/comedy,2014,Taika Waititi,7.6,1.43
+23,12 Years a Slave,drama/history,2013,Steve McQueen,8.1,2.23
+24,Whiplash,drama/indiefilm,2014,Damien Chazelle,8.5,1.783
+25,Annihilation,horror/sci-fi,2018,Alex Garland,6.8,2
+26,Call Me By Your Name,romance/drama,2017,Luca Guadagnino,7.8,2.167
+27,The Witch,horror/mystery,2015,Robert Eggers,7,1.53
+28,Hunt for the Wilderpeople,comedy/adventure,2016,Taika Waititi,7.8,1.683
+29,Star Wars: The Force Awakens,sci-fi/action,2015,JJ Abrams,7.8,2.25
+30,Wonder Woman,action,2017,Patty Jenkins,7.3,2.35
